@@ -44,13 +44,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SumOfPositive">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <configuration name="StringRepeat" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="StringRepeat" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SumOfPositive" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SumOfPositive" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
