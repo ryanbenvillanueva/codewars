@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestWord">
+  <component name="RunManager" selected="Application.SumOfNumbers">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -57,6 +57,12 @@
     <configuration name="StringRepeat" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="StringRepeat" />
       <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
+      <module name="Katas" />
+      <option name="PROGRAM_PARAMETERS" value="4 1" />
       <method v="2" />
     </configuration>
     <configuration name="SumOfPositive" type="Application" factoryName="Application">
