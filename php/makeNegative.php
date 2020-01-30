@@ -1,10 +1,10 @@
 <?php
-function makeNegative($num) {
+function makeNegative($num)
+{
     if ($num * -1 > 0) {
-     return $num;
+        return $num;
     } else {
-      return -1 * $num;
+        return -1 * $num;
     }
 }
 echo makeNegative(3);
-?>
