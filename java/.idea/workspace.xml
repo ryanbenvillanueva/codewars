@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareNSum">
+  <component name="RunManager" selected="Application.MultiplesOf3Or5">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -63,6 +63,12 @@
     <configuration name="HouseNumbersSum" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HouseNumbersSum" />
       <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiplesOf3Or5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MultiplesOf3Or5" />
+      <module name="Katas" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2" />
     </configuration>
     <configuration name="ShortestWord" type="Application" factoryName="Application">
@@ -98,6 +104,11 @@
     </configuration>
     <configuration name="VowelCount" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="VowelCount" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YesOrNo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="YesOrNo" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
