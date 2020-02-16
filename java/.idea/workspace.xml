@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiplesOf3Or5">
+  <component name="RunManager" selected="Application.HighestAndLowest">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -57,6 +57,11 @@
     </configuration>
     <configuration name="DescendingOrder" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DescendingOrder" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HighestAndLowest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HighestAndLowest" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
