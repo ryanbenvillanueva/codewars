@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquashTheBugs">
+  <component name="RunManager" selected="Application.Greeter">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -70,6 +70,11 @@
       <module name="Katas" />
       <method v="2" />
     </configuration>
+    <configuration name="Greeter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Greeter" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
     <configuration name="HighestAndLowest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HighestAndLowest" />
       <module name="Katas" />
@@ -77,6 +82,11 @@
     </configuration>
     <configuration name="HouseNumbersSum" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HouseNumbersSum" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HowGoodAreYouReally" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HowGoodAreYouReally" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
