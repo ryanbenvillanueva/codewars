@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NthPower">
+  <component name="RunManager" selected="Application.Prime">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -98,6 +98,11 @@
     </configuration>
     <configuration name="NthPower" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="NthPower" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Prime" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
