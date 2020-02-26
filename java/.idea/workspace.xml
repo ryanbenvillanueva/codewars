@@ -45,13 +45,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prime">
+  <component name="RunManager" selected="Application.CreatePhoneNumber">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="CalculateAverage" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CalculateAverage" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
     <configuration name="ComplementaryDNA" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComplementaryDNA" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CreatePhoneNumber" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CreatePhoneNumber" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
