@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WhoLikesThis">
+  <component name="RunManager" selected="Application.CountTheSmileyFaces">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -57,6 +57,11 @@
     </configuration>
     <configuration name="ComplementaryDNA" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComplementaryDNA" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CountTheSmileyFaces" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CountTheSmileyFaces" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
@@ -163,7 +168,7 @@
       <method v="2" />
     </configuration>
     <configuration name="WhoLikesThis" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="WhoLikesThis" />
+      <option name="MAIN_CLASS_NAME" value="WhoLikesIt" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
