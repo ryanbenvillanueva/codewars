@@ -24,6 +24,7 @@ public class SumOfPositive {
             n++;
         }
 
+        reader.close();
         System.out.println("The sum of positive numbers is " + SumOfPositive.sum(arr));
     }
 }

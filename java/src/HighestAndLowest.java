@@ -21,8 +21,6 @@ public class HighestAndLowest {
     }
 
     public static void main(String[] args) {
-        HighestAndLowest hal = new HighestAndLowest();
-
         System.out.println(highAndLow("1 2 3 4 5 6 7 8 9"));
     }
 

@@ -4,7 +4,6 @@ public class NumberToString {
     }
 
     public static void main(String[] args) {
-        NumberToString nts = new NumberToString();
-        System.out.println(nts.numberToString(123));
+        System.out.println(numberToString(123));
     }
 }
