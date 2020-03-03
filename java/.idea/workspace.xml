@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountTheSmileyFaces">
+  <component name="RunManager" selected="Application.FirstNonConsecutive">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -57,6 +57,11 @@
     </configuration>
     <configuration name="ComplementaryDNA" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComplementaryDNA" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConvertToBinary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ConvertToBinary" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
@@ -82,6 +87,11 @@
     </configuration>
     <configuration name="FindDivisor" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FindDivisor" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstNonConsecutive" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FirstNonConsecutive" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
