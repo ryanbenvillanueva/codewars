@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BooleanToString">
+  <component name="RunManager" selected="Application.FirstClass">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -92,6 +92,11 @@
     </configuration>
     <configuration name="FindDivisor" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FindDivisor" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstClass" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
       <module name="Katas" />
       <method v="2" />
     </configuration>
