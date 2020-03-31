@@ -120,6 +120,11 @@
       <module name="Katas" />
       <method v="2" />
     </configuration>
+    <configuration name="Goals" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Goals" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
     <configuration name="Greeter" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Greeter" />
       <module name="Katas" />
