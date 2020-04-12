@@ -10,5 +10,3 @@ function modifiedSum(a, n) {
   
   return nthPowerSum - arraySum;
 }
-
-console.log(modifiedSum([1,2,3,4,5], 3));
