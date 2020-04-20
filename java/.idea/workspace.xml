@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cube">
+  <component name="RunManager" selected="Application.OddCount">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -176,6 +176,11 @@
       <module name="Katas" />
       <method v="2" />
     </configuration>
+    <configuration name="OddCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OddCount" />
+      <module name="Katas" />
+      <method v="2" />
+    </configuration>
     <configuration name="Prime" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Prime" />
       <module name="Katas" />
@@ -268,5 +273,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OddCount.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
