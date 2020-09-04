@@ -1,4 +1,4 @@
-function padIt(str,n){
+function padIt(str, n) {
   let i = 1;
   let even = '';
   let odd = '';
