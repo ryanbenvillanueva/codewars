@@ -7,4 +7,4 @@ public class AreaOrPerimeter {
         System.out.println(areaOrPerimeter(4, 4));
     }
 }
-P
+
