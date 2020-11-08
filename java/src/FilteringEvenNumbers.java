@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class Kata13December {
+public class FilteringEvenNumbers {
 
     public static List<Integer> filterOddNumber(List<Integer> listOfNumbers) {
         List<Integer> newList = new ArrayList<Integer>();
