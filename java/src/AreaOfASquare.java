@@ -1,4 +1,4 @@
-public class SquareArea {
+public class AreaOfASquare {
     public static double squareArea(double A) {
         double l = (2 * A) / Math.PI;
         double x = l * l;
