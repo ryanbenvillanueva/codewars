@@ -1,4 +1,4 @@
-public class Kata {
+public class FuelCalculator {
     public static double fuelPrice(int litres, double pricePerLitre) {
         double totalCost = 0;
 
