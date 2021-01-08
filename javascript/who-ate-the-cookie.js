@@ -1,4 +1,4 @@
-function cookie(x){
+function cookie(x) {
   if (typeof x === "string") {
     return "Who ate the last cookie? It was Zach!";
   } else if (typeof x === "number") {
